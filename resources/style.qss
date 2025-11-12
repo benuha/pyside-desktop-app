@@ -1,0 +1,3 @@
+QMainWindow {
+  font-size: 17pt;
+}

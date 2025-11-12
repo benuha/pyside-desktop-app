@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+        <file>icons/app.ico</file>
+        <file>images/clock.png</file>
+        <file>images/ventilation.png</file>
+    </qresource>
+</RCC>
