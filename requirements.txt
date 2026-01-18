@@ -2,7 +2,7 @@ black~=25.11.0
 numpy~=2.3.4
 openpyxl~=3.1.5
 packaging~=25.0
-pandas-stubs~=2.3.2.*
+pandas-stubs~=2.3.2
 pandas~=2.3.3
 pyinstaller-hooks-contrib
 pyinstaller~=6.16.0
