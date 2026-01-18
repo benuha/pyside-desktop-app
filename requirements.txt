@@ -9,3 +9,5 @@ pyinstaller~=6.16.0
 pyparsing~=3.2.5
 PySide6~=6.10.0
 python-dotenv~=1.2.1
+matplotlib~=3.10.8
+pillow~=12.1.0
